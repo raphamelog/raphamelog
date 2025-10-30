@@ -22,8 +22,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-ff66aa?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ff99cc?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-ff77aa?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-ff99cc?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-ff77aa?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-ff99cc?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-ff66b3?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/WordPress-ff99cc?style=for-the-badge&logo=wordpress&logoColor=white"/>
 </p>
