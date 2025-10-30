@@ -13,11 +13,7 @@
 ---
 
 ### 🌙 About Me  
-<span style="color:#ff9acb;">
-💗 I love combining design, beauty and code  
-💫 Creating websites that feel soft, magical and delightful  
-🌸 Passionate about Front-End & UI design  
-🎀 Always chasing cute aesthetics and pink sparkles  
+<span style="color:#ff9acb;"> I love combining design principles with modern web technologies to create responsive, elegant, and accessible websites. I’m passionate about front-end development and crafting digital experiences that are beautiful and intuitive
 </span>
 
 ---
