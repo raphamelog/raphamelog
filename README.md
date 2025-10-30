@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif" width="350px">
+  <img src="https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif" width="550px">
   <h1 style="color:#ff9acb;">Hi there, i'm Raphaela 🌸</h1>
   <h3 style="color:#ffb6d5;">💻 Programming student at Etec Guarulhos 💖</h3>
   
@@ -10,7 +10,7 @@
 
 ###  About Me  
 <span style="color:#ff9acb;">
-I love combining design principles with modern web technologies to create **responsive**, **elegant**, and **accessible** websites.  
+I love combining design principles with modern web technologies to create responsive, elegant, and accessible websites.  
 I’m passionate about front-end development and crafting digital experiences that are beautiful and intuitive 🌷
 </span>
 
