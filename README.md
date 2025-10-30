@@ -8,9 +8,8 @@ Skills: REACT / JS / HTML / CSS / FIGMA / WORDPRESS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raphamelog)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' color='FF9CE2'>](https://github.com/raphamelog)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphamelog)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=raphamelog)  
 
