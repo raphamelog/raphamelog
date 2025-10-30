@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi there, my name is Raphaela
+#### I'm a programming student at Etec Guarulhos school.
+![I'm a programming student at Etec Guarulhos school.](https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif)
 
-<!--
-**raphamelog/raphamelog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love combining design principles with modern web technologies to create responsive, elegant, and accessible websites.  
 
-Here are some ideas to get you started:
+Skills: REACT / JS / HTML / CSS / FIGMA / WORDPRESS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raphamelog)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raphamelog)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=raphamelog)  
+
