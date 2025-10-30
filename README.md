@@ -3,7 +3,7 @@
 <img src="https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif" width="550px">
 
 <h1 style="color:#ff9acb;">Hi there, i'm Raphaela ❤️</h1>
-<h3 style="color:#ffb6d5;">Programming student at Etec Guarulhos</h3>
+<h3 style="color:#ffb6d5;">A programming student at Etec Guarulhos</h3>
 
 <img src="https://i.pinimg.com/originals/6b/ea/5c/6bea5cfb28ce5cf72d23f712f75d27bb.gif" width="130" />  
 <br>
