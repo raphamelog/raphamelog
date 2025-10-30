@@ -18,7 +18,7 @@
 
 ---
 
-### ✨ Sailor Skills (Powered by Moon Prism Magic)
+### ✨ Skills
 <p align="center">
   <img src="https://img.shields.io/badge/React-ff66aa?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ff99cc?style=for-the-badge&logo=javascript&logoColor=white"/>
