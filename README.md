@@ -1,22 +1,28 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif" width="550px">
-  <h1 style="color:#ff9acb;">Hi there, i'm Raphaela 🌸</h1>
-  <h3 style="color:#ffb6d5;">💻 Programming student at Etec Guarulhos 💖</h3>
-  
- 
+
+<img src="https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif" width="550px">
+
+<h1 style="color:#ff9acb;">Hi there, i'm Raphaela ❤️</h1>
+<h3 style="color:#ffb6d5;">Programming student at Etec Guarulhos</h3>
+
+<img src="https://i.pinimg.com/originals/6b/ea/5c/6bea5cfb28ce5cf72d23f712f75d27bb.gif" width="130" />  
+<br>
+
 </div>
 
 ---
 
-###  About Me  
+### 🌙 About Me  
 <span style="color:#ff9acb;">
-I love combining design principles with modern web technologies to create responsive, elegant, and accessible websites.  
-I’m passionate about front-end development and crafting digital experiences that are beautiful and intuitive 🌷
+💗 I love combining design, beauty and code  
+💫 Creating websites that feel soft, magical and delightful  
+🌸 Passionate about Front-End & UI design  
+🎀 Always chasing cute aesthetics and pink sparkles  
 </span>
 
 ---
 
-### 💕 Skills
+### ✨ Sailor Skills (Powered by Moon Prism Magic)
 <p align="center">
   <img src="https://img.shields.io/badge/React-ff66aa?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-ff99cc?style=for-the-badge&logo=javascript&logoColor=white"/>
@@ -28,10 +34,13 @@ I’m passionate about front-end development and crafting digital experiences th
 
 ---
 
-### 🌷 Connect with me  
+### 🎀 Connect with Me  
 <p align="center">
   <a href="https://github.com/raphamelog">
     <img src="https://img.shields.io/badge/GitHub-ff66aa?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/raphaela-guedes-528b492a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-ffb6d5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>
   </a>
 </p>
 
@@ -42,8 +51,20 @@ I’m passionate about front-end development and crafting digital experiences th
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raphamelog&layout=compact&title_color=ff99cc&text_color=ffb6d5&bg_color=0d1117&hide_border=true" alt="Top Langs">
 </p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=raphamelog&theme=rose_pine&ring=ff9acb&fire=ff77c9&currStreakLabel=ffb6d5&hide_border=true" />
+</p>
+
 ---
 
-<p align="center" style="color:#ffb6d5;">
-  💖 Made with by <strong>Raphaela</strong> 💖
+<div align="center">
+
+<img src="https://media.tenor.com/PhxKN7CGjzEAAAAj/sailor-moon.gif" width="140"/>
+
+<p style="color:#ffb6d5;">
+🌙✨ *"I’ll code in the name of the Moon!"* ✨🌙  
+<br>
+💖 Made with love by <strong>Raphaela</strong> 💖
 </p>
+
+</div>
