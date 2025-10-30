@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/eb/ed/dd/ebeddd1deada8266ca026d82d0247387.gif" width="350px">
-  <h1 style="color:#ff9acb;">🌙 Hi there 👋, I'm Raphaela 🌸</h1>
+  <h1 style="color:#ff9acb;">Hi there, i'm Raphaela 🌸</h1>
   <h3 style="color:#ffb6d5;">💻 Programming student at Etec Guarulhos 💖</h3>
   
  
@@ -45,5 +45,5 @@ I’m passionate about front-end development and crafting digital experiences th
 ---
 
 <p align="center" style="color:#ffb6d5;">
-  💖 Made with love and creativity by <strong>Raphaela</strong> 💖
+  💖 Made with by <strong>Raphaela</strong> 💖
 </p>
